@@ -1,0 +1,2 @@
+Hello,
+This my second file from craft-common-09
